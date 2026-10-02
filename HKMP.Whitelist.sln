@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12210.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HKMP.Whitelist", "HKMP.Whitelist.csproj", "{D88D6C64-D90C-4082-ACF7-8FC072A048AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88D6C64-D90C-4082-ACF7-8FC072A048AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88D6C64-D90C-4082-ACF7-8FC072A048AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88D6C64-D90C-4082-ACF7-8FC072A048AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88D6C64-D90C-4082-ACF7-8FC072A048AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18407764-4721-4341-9857-85EC6822F229}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+{
+  "PresetName": "Tournament Maximum",
+  "SecurityMode": "Maximum",
+  "UnknownPolicyDeny": true,
+  "RequireCompleteScan": true,
+  "CheckCoreIntegrity": true,
+  "CheckSelfIntegrity": true,
+  "RuntimeMonitoringEnabled": true,
+  "RuntimeScanIntervalSeconds": 30,
+  "ChallengeEnabled": true,
+  "ChallengeTimeoutMs": 3000,
+  "RequiredMods": ["hkmp"],
+  "AllowedMods": [],
+  "ForbiddenMods": []
+}
